@@ -1,3 +1,8 @@
+### 0.7.6
+
+Forked from original
+removed hue, used color primary
+
 ### 0.7.5
 
 Minor bugfixes
